@@ -1,5 +1,6 @@
 [Variables]
 
-PowerMenuVariant=Over(hibernate).ini 
+PowerMenuVariant=Over(normal).ini 
 TFormat=I
 ToggleZero=#
+

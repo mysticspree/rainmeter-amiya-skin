@@ -3,4 +3,4 @@ Rainmeter skin offering a vertical layout time widget with music player and cont
 
 ## License
 This Rainmeter skin is licensed under CC BY 4.0.
-You are free to use, modify, and distribute it, provided you give appropriate credit to the original creator: Priyanshu.
+You are free to use, modify, and distribute it, provided you give appropriate credit to the original creator: mysticspree.
